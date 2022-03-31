@@ -1,6 +1,6 @@
 # SpringCloud-Netflix-Kss-Config
 本工程SpringCloud-Netflix-Kss-Config为：分布式配置中心
-
+----------------------------------------------------------
 SpringCloud-Netflix 整合；
 SpringCloud：父工程；
 springcloud-consumer-dept-8082：客服端子工程；
